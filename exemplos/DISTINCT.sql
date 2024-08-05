@@ -1,0 +1,6 @@
+/*
+
+SELECT DISTINCT Firstname
+FROM person.person
+
+*/
