@@ -33,5 +33,4 @@ SMALLDATETIME - Data e horas nos respeitando o limite entre '1900-01-01:00:00:00
 TIME - Horas, minutos, segundos e milissegundos respeitando o limite de '00:00:00.0000000' to '23:59:59.9999999'
 DATETIMEOFFSET - Permite armazenar informações de data e horas incluindo o fuso horário
 
-
 */
