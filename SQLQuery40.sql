@@ -1,0 +1,7 @@
+CREATE TABLE Canal(
+CanalID INT PRIMARY KEY,
+Nome VARCHAR(150) NOT NULL,
+ContagemInscritos INT DEFAULT 0,
+DataCriacao DATETIME NOT NULL
+
+);
